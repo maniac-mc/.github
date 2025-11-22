@@ -27,7 +27,9 @@ the [GitHub profile](https://github.com/maniac-mc) of the MANIAC-MC organization
     width="30%" align="right"/>
 </a>
 
-MANIAC is a lightweight Monte Carlo simulation code written in Fortran,
+## What is MANIAC-MC ?
+
+MANIAC-MC is a lightweight Monte Carlo simulation code written in Fortran,
 designed for GCMC and adsorption studies. It reads basic LAMMPS-style topology
 files and supports the following Monte Carlo moves:
 
