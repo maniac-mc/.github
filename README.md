@@ -13,7 +13,7 @@ list in "files.txt".
 [![Build](https://github.com/maniac-mc/maniac-mc.github.io/actions/workflows/tests.yml/badge.svg)](https://github.com/maniac-mc/maniac-mc.github.io/actions/workflows/tests.yml)
 [![Docs](https://github.com/maniac-mc/maniac-mc.github.io/actions/workflows/docs.yml/badge.svg)](https://github.com/maniac-mc/maniac-mc.github.io/actions/workflows/docs.yml)
 [![Lint](https://github.com/maniac-mc/maniac-mc.github.io/actions/workflows/lint.yml/badge.svg)](https://github.com/maniac-mc/maniac-mc.github.io/actions/workflows/lint.yml)
-![Fortran](https://img.shields.io/badge/Fortran-007ACC-%2328a745?style=flat&logo=fortran&logoColor=white)
+![Fortran](https://img.shields.io/badge/Fortran-%2328a745?style=flat&logo=fortran&logoColor=white)
 
 
 # MANIAC-MC's special repository
