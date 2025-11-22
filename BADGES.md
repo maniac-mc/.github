@@ -1,24 +1,7 @@
-<!--
-WARNING: DO NOT MODIFY DIRECTLY THE README.md!
-This README.md file was assembled using the sed command from the files listed in
-"files.txt". See the script in "generateREADME.sh". To modify the content of 
-the  README.md, modify the files listed in "files.txt", or add a new file to the
-list in "files.txt".
--->
-
-
 ![Last Commit](https://img.shields.io/github/last-commit/maniac-mc/maniac-mc.github.io?color=%2328a745)
 ![License: MIT](https://img.shields.io/badge/License-MIT-%2328a745)
 ![GitHub release](https://img.shields.io/github/v/release/maniac-mc/maniac-mc.github.io?color=%2328a745)
 [![Build](https://github.com/maniac-mc/maniac-mc.github.io/actions/workflows/tests.yml/badge.svg)](https://github.com/maniac-mc/maniac-mc.github.io/actions/workflows/tests.yml)
 [![Docs](https://github.com/maniac-mc/maniac-mc.github.io/actions/workflows/docs.yml/badge.svg)](https://github.com/maniac-mc/maniac-mc.github.io/actions/workflows/docs.yml)
 [![Lint](https://github.com/maniac-mc/maniac-mc.github.io/actions/workflows/lint.yml/badge.svg)](https://github.com/maniac-mc/maniac-mc.github.io/actions/workflows/lint.yml)
-
-
-
-# MANIAC-MC's special repository
-
-The content of [profile/README.md](profile/README.md) appears on
-the [GitHub profile](https://github.com/maniac-mc) of the MANIAC-MC organization.
-
 
