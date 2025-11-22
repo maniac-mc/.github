@@ -22,6 +22,14 @@ The content of [profile/README.md](profile/README.md) appears on
 the [GitHub profile](https://github.com/maniac-mc) of the MANIAC-MC organization.
 
 
+## Why the name MANIAC?
+
+The original MANIAC computer (for Mathematical Analyzer, Numerical Integrator, and
+Computer) was built in the early 1950s at Los Alamos National Laboratory. It
+was one of the first machines used to perform Monte Carlo simulations in
+statistical physics and nuclear research.
+
+
 ## Author
 
 Original code written by [Simon Gravelle, LIPhy, CNRS](https://simongravelle.github.io/).
