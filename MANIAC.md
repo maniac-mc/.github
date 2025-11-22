@@ -13,3 +13,5 @@ files and supports the following Monte Carlo moves:
 - Deletion  
 - Swap  
 - Widom insertion
+
+For complete documentation, visit [maniac-mc.github.io](https://maniac-mc.github.io).

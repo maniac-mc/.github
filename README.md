@@ -38,6 +38,8 @@ files and supports the following Monte Carlo moves:
 - Swap  
 - Widom insertion
 
+For complete documentation, visit [maniac-mc.github.io](https://maniac-mc.github.io).
+
 
 ## Why the name MANIAC?
 
