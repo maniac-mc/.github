@@ -16,10 +16,10 @@ list in "files.txt".
 
 
 
-# MANIAC-MC's special repository
+# MANIAC-MC
 
-The content of [profile/README.md](profile/README.md) appears on
-the [GitHub profile](https://github.com/maniac-mc) of the MANIAC-MC organization.
+This is the GitHub organization for MANIAC-MC, an open source Monte Carlo code
+designed for fluid adsorption studies.
 
 
 <img
