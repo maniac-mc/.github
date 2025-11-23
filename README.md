@@ -7,8 +7,8 @@ list in "files.txt".
 -->
 
 
-<img src="https://img.shields.io/github/Last-commit/maniac-mc/maniac-mc.github.io?color=%2328a745" /> <img src="https://img.shields.io/badge/License-MIT-%2328a745" />
-<img src="https://img.shields.io/github/v/Release/maniac-mc/maniac-mc.github.io?color=%2328a745" /> <img src="https://img.shields.io/badge/Written%20in-Fortran-28a745?labelColor=555555&style=flat&logo=fortran&logoColor=white" />
+<img src="https://img.shields.io/github/last-commit/maniac-mc/maniac-mc.github.io?color=%2328a745" /> <img src="https://img.shields.io/badge/license-MIT-%2328a745" />
+<img src="https://img.shields.io/github/v/release/maniac-mc/maniac-mc.github.io?color=%2328a745" /> <img src="https://img.shields.io/badge/written%20in-Fortran-28a745?labelColor=555555&style=flat&logo=fortran&logoColor=white" />
 
 
 
