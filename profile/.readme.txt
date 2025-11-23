@@ -1,0 +1,7 @@
+../COMMENT.md
+../BADGES.md
+../DESCRIPTION.md
+../MANIAC.md
+../NAME.md
+CONTENT.md
+../AUTHORS.md
