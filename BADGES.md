@@ -1,7 +1,15 @@
-![Last Commit](https://img.shields.io/github/last-commit/maniac-mc/maniac-mc.github.io?color=%2328a745)
-![License: MIT](https://img.shields.io/badge/License-MIT-%2328a745)
-![GitHub release](https://img.shields.io/github/v/release/maniac-mc/maniac-mc.github.io?color=%2328a745)
-[![Build](https://github.com/maniac-mc/maniac-mc.github.io/actions/workflows/tests.yml/badge.svg)](https://github.com/maniac-mc/maniac-mc.github.io/actions/workflows/tests.yml)
-[![Docs](https://github.com/maniac-mc/maniac-mc.github.io/actions/workflows/docs.yml/badge.svg)](https://github.com/maniac-mc/maniac-mc.github.io/actions/workflows/docs.yml)
-[![Lint](https://github.com/maniac-mc/maniac-mc.github.io/actions/workflows/lint.yml/badge.svg)](https://github.com/maniac-mc/maniac-mc.github.io/actions/workflows/lint.yml)
-![Fortran](https://img.shields.io/badge/Fortran-%2328a745?style=flat&logo=fortran&logoColor=white)
+<p align="center">
+  <img src="https://img.shields.io/github/last-commit/maniac-mc/maniac-mc.github.io?color=%2328a745" />
+  <img src="https://img.shields.io/badge/License-MIT-%2328a745" />
+  <img src="https://img.shields.io/github/v/release/maniac-mc/maniac-mc.github.io?color=%2328a745" />
+  <a href="https://github.com/maniac-mc/maniac-mc.github.io/actions/workflows/tests.yml">
+    <img src="https://github.com/maniac-mc/maniac-mc.github.io/actions/workflows/tests.yml/badge.svg" />
+  </a>
+  <a href="https://github.com/maniac-mc/maniac-mc.github.io/actions/workflows/docs.yml">
+    <img src="https://github.com/maniac-mc/maniac-mc.github.io/actions/workflows/docs.yml/badge.svg" />
+  </a>
+  <a href="https://github.com/maniac-mc/maniac-mc.github.io/actions/workflows/lint.yml">
+    <img src="https://github.com/maniac-mc/maniac-mc.github.io/actions/workflows/lint.yml/badge.svg" />
+  </a>
+  <img src="https://img.shields.io/badge/Fortran-%2328a745?style=flat&logo=fortran&logoColor=white" />
+</p>
